@@ -40,7 +40,7 @@
             * 2 Online stores. Main and 1 internal pages.
             * Landing Page.
 
-    * Periodically work on a project [KharkovEnergoPribor Ltd](kephv.com). Used: Bootstrap, Owl-carousel, Lightbox,
+    * Periodically work on a project [KharkovEnergoPribor Ltd](https://kephv.com). Used: Bootstrap, Owl-carousel, Lightbox,
     jQuery, Gulp. Works that he performed:
         * Layout of the content part of the main page, without header and footer
         * Search page layout
